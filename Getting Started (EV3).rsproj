@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CogSimProj>
+  <ProjectInfo ID="4c3acc2d-8a8b-4c19-8618-5c9778930121" ItemID="1" Type="RobotSimProject" Version="2.6.0" />
+  <ProjectData>
+    <Details Creator="" Company="" Description="" Email="" Website="" />
+    <State CurrentEnvironment="268435456" />
+    <Directories>
+      <Directory DirectoryName="Materials" />
+      <Directory DirectoryName="Meshes" />
+      <Directory DirectoryName="Resources" />
+      <Directory DirectoryName="Scripts" />
+      <Directory DirectoryName="Textures" />
+      <Directory DirectoryName="Environments">
+        <Dependency Name="Getting Started (EV3).rsim" ItemID="268435456" Type="Environment" Path="" Link="False" />
+      </Directory>
+      <EV3Directory DirectoryName="EV3 Educator Vehicle" />
+    </Directories>
+  </ProjectData>
+</CogSimProj>
