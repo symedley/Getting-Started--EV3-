@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CogSimProj>
-  <ProjectInfo ID="4c3acc2d-8a8b-4c19-8618-5c9778930121" ItemID="1" Type="RobotSimProject" Version="2.6.0" />
+  <ProjectInfo ID="39b86a38-a1ff-4edc-82ab-aa4d487cc0de" ItemID="2" Type="RobotSimProject" Version="2.6.0" />
   <ProjectData>
     <Details Creator="" Company="" Description="" Email="" Website="" />
     <State CurrentEnvironment="268435456" />
@@ -9,7 +9,9 @@
       <Directory DirectoryName="Meshes" />
       <Directory DirectoryName="Resources" />
       <Directory DirectoryName="Scripts" />
-      <Directory DirectoryName="Textures" />
+      <Directory DirectoryName="Textures">
+        <Dependency Name="color mat.jpg" ItemID="1" Type="Texture" Path="" Link="False" />
+      </Directory>
       <Directory DirectoryName="Environments">
         <Dependency Name="Getting Started (EV3).rsim" ItemID="268435456" Type="Environment" Path="" Link="False" />
       </Directory>
